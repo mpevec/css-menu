@@ -1,0 +1,29 @@
+{
+    "name": "milanpevec-starter-kit",
+    "version": "1.0.0",
+    "description": "Starter Kit",
+    "main": "index.html",
+    "scripts": {
+        "gulp": "gulp"
+    },
+    "author": "Milan Pevec",
+    "license": "ISC",
+    "devDependencies": {
+        "@babel/core": "^7.6.4",
+        "@babel/preset-env": "^7.6.3",
+        "browser-sync": "^2.26.3",
+        "del": "^5.1.0",
+        "gulp": "^4.0.2",
+        "gulp-autoprefixer": "^6.0.0",
+        "gulp-babel": "^8.0.0",
+        "gulp-clean-css": "4.0.0",
+        "gulp-concat": "^2.6.1",
+        "gulp-imagemin": "^5.0.3",
+        "gulp-plumber": "^1.2.1",
+        "gulp-rename": "^1.4.0",
+        "gulp-sass": "^4.0.2",
+        "gulp-sourcemaps": "^2.6.4",
+        "gulp-uglify": "^3.0.1"
+    },
+    "dependencies": {}
+}
