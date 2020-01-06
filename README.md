@@ -2,7 +2,7 @@
 
 Instead of using so called wrappers (usually with width: 100%; max-width: 1100px; margin: 0 auto;), we can use display: grid and fractions with percentages. This code shows the example how I usually solve this issue. So the basic layout is presented as following:
 
-![Screenshot](https://raw.githubusercontent.com/mpevec/css-menu/master/docs/css-menu.svg)
+![Screenshot](https://raw.githubusercontent.com/mpevec/css-menu/master/docs/css-menu.png)
 
 ***
 
